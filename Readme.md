@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Irina Agarkova](https://up.htmlacademy.ru/ecmascript-individual/2/user/1582959).
-* Наставник: Роман Марченко.
+* Наставник: Роман Марченко
 
 ---
 
